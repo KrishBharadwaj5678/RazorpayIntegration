@@ -19,11 +19,11 @@ A simple and secure integration of the Razorpay payment gateway using **React.js
 
 ## 🛠️ Tech Stack
 
-| Technology            | Description                                           |
-|----------------------|-----------------------------------------------------   |
-| Node.js, Express      | Backend API, order creation, and payment verification |
-| React                 | Frontend UI for initiating payments                   |
-| Razorpay Node SDK     | Official SDK for interacting with Razorpay APIs       |
+| Technology               | Description                                              |
+| :----------------------- | :------------------------------------------------------- |
+| 🟩 **Node.js & Express** | Backend API for order creation and payment verification. |
+| ⚛️ **React**             | Frontend UI for initiating and managing payments.        |
+| 💳 **Razorpay Node SDK** | Official SDK for interacting with Razorpay APIs.         |
 
 ---
 
