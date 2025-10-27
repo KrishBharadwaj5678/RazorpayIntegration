@@ -2,6 +2,8 @@
 
 A simple and secure integration of the Razorpay payment gateway using **React.js**, **Node.js**, **Express.js**. 
 
+![RazorpayDemo](https://github.com/KrishBharadwaj5678/Razorpay-Integration/raw/main/RazorPayDemo.png)
+
 ---
 
 ## 🚀 Features
